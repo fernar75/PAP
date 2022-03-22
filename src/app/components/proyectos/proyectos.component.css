@@ -16,14 +16,14 @@
 
 
 .proyectos {
-    margin: auto;  
+    margin: auto;
     text-align: center;    
 }
 
 
 .img-fluid {    
-    width: 200px;
-    height: 150px;
+    width: 250px;
+    height: 200px;
     float: none; 
 }
 

@@ -15,19 +15,22 @@
 }
 
 
-.experiencia {
+.experiencia {  
     margin: auto;  
     text-align: center;    
 }
 
 
 .img-fluid {    
-    width: 200px;
-    height: 100px;
+    width: 140px;
+    height: 80px;
     float: none; 
 }
 
-
+button {
+    float: right;
+    margin-right: 15px;
+}
 
 
 
